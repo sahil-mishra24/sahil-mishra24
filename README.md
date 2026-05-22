@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 💻 B.Tech CSIT Student (3rd Year)  <br>🔐 Into Cybersecurity | Wireshark & HDx  <br>🌐 Frontend Web Development Enthusiast  <br>☕ Currently learning Python & Java
 
 
